@@ -44,6 +44,10 @@ By using these projects, you agree to comply with all applicable laws and ethica
    ```bash
    git clone https://github.com/yassine-yahya/security-kit.git
    cd security-kit
+   
+2. Navigate into any project folder to explore code and run scripts.
+3. Each project folder contains configuration files and lists the required Python libraries.
+4. Make sure to check each folder’s README or requirements files for setup instructions.
 
 About Me
 I am a cybersecurity enthusiast and Python / Js developer, continuously expanding my skills in network security, automation, and programming. This repo showcases some of my practical work in the field.
